@@ -1,0 +1,8 @@
+com/hp/example/views/PersonsCsvView.class
+com/hp/example/views/MediaTypeRequestToViewTranslator.class
+com/hp/example/views/PersonsExcelReportView.class
+com/hp/example/repositories/PersonRepository.class
+com/hp/example/controllers/PersonController.class
+com/hp/example/services/PersonService.class
+com/hp/example/services/PersonServiceImpl.class
+com/hp/example/entities/Person.class
